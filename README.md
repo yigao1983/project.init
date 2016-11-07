@@ -1,2 +1,3 @@
 # project.init
-Project using github
+
+Hello Humans!
